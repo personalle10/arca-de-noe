@@ -24,7 +24,7 @@ nav > a{
     transition-duration: 0.5;
     padding: 10px;
     margin: 20px;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 nav> a:hover{
@@ -41,11 +41,11 @@ img{
     padding: 20px;
 }
 p{
-    font-size: 18px;
+    font-size: 20px;
     background-color:aliceblue
 }
  div> a{
-    font-size: 18px;
+    font-size: 20px;
     color:black ;
     border-radius: 5px;
     text-align: center;
@@ -73,4 +73,8 @@ h4{
     border-radius: 40px;
     text-align: center;
     color: #F2ECE4;
+}
+h5{
+    font-size: 18px;
+
 }
