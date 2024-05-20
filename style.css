@@ -6,9 +6,7 @@ body{
     max-height: 644px;
     margin: 0 auto;
     padding: 20px;
-   
 }
-
 h1{
     background-color:#042959 ;
     color: #F2ECE4;
@@ -56,7 +54,7 @@ div >h2{
     border-radius: 20px;
 }
 div> p{
-    color:#e6232d;
+    color:#3a2626;
     border-radius: 10px;
     background-color: #ecc3b4;
 }
