@@ -83,7 +83,7 @@ div >h2{
     text-align: center;
     border-radius: 20px;
 }
-div>h3{
+span>h3{
     background-color:orangered;
     color: hsl(34, 35%, 92%);
     text-align: center;
