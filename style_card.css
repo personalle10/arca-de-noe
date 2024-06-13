@@ -4,8 +4,8 @@ body{
     text-align: justify;
     margin: 0 auto;
     padding: 20px;
-    max-width: 834px;
-    max-height: 644px;
+    min-width: 344px; max-width: 834px;
+    min-height: 644px; max-height: 822px;
    
 }
 
