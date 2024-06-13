@@ -84,7 +84,7 @@ iframe{
 main.cards{
     display: flex;
     flex-direction:row;
-    max-width: 834px;
+    min-width: 834px;
     max-height: 644px;
 }
 .container{
@@ -95,7 +95,7 @@ main.cards{
 }
     
 #card1{
-    width: 250px;
+    max-width: 250px;
     height: 430px;
     border-radius: 15px;
     margin-top: 10px;
