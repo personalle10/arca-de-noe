@@ -79,11 +79,11 @@ img{
     text-decoration: none;
     background-color: aliceblue;
 }
-div >h2{
+div>h2{
     text-align: center;
     border-radius: 20px;
 }
-span>h3{
+div>h3{
     background-color:#234879;
     color: hsl(34, 35%, 92%);
     font-size: 20px;
