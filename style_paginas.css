@@ -84,10 +84,10 @@ div >h2{
     border-radius: 20px;
 }
 span>h3{
-    background-color:orangered;
+    background-color:#234879;
     color: hsl(34, 35%, 92%);
     font-size: 20px;
-    border-radius: 50%;
+    border-radius: 70px;
 }
 iframe{
     margin: auto;
