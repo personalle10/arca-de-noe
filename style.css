@@ -67,7 +67,7 @@ nav> a:hover{
 img{
     margin: 0 auto;
     display: block;
-    min-width: 344px;max-width: 610px;
+    max-width: 344px;
     max-height: 267px;
     padding: 20px;
 }
