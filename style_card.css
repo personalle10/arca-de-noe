@@ -95,8 +95,8 @@ main.cards{
 }
     
 #card1{
-    max-width: 250px;
-    max-height: 430px;
+    max-width: 610px;
+    max-height: 267px;
     border-radius: 15px;
     margin-top: 10px;
     background-color:#ee5827;
@@ -162,8 +162,8 @@ text-decoration: none;
 }
 
 #card2{
-    width: 250px;
-    height: 430px;
+    max-width: 610px;
+    max-height: 267px;
     border-radius: 15px;
     margin-top: 10px;
     background-color:#ee5827;
@@ -175,8 +175,8 @@ max-height: 200px;
 }
 
 #card3{
-    width: 250px;
-    height: 430px;
+    max-width: 610px;
+    max-height: 267px;
     border-radius: 15px;
     margin-top: 10px;
     background-color: #ee5827;
@@ -184,8 +184,8 @@ max-height: 200px;
 }
 
 #card4{
-    width: 250px;
-    height: 430px;
+    max-width: 610px;
+    max-height: 267px;
     border-radius: 15px;
     margin-top: 10px;
     background-color:#ee5827;
@@ -193,8 +193,8 @@ max-height: 200px;
 }
 
 #card5{
-    width: 250px;
-    height: 430px;
+    max-width: 610px;
+    max-height: 267px;
     border-radius: 15px;
     margin-top: 10px;
     background-color: #ee5827;
@@ -202,8 +202,8 @@ max-height: 200px;
 }
 
 #card6{
-    width: 250px;
-    height: 430px;
+    max-width: 610px;
+    max-height: 267px;
     border-radius: 15px;
     margin-top: 10px;
     background-color:#ee5827;
