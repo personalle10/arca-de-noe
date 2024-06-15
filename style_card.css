@@ -37,8 +37,8 @@ nav> a:hover{
 img{
     margin: 0 auto;
     display: block;
-    max-width: 500px;
-    max-height: 367px;
+    max-width: 344px;
+    max-height: 250px;
     padding: 20px;
 }
 p{
@@ -96,7 +96,7 @@ main.cards{
     
 #card1{
     max-width: 250px;
-    height: 430px;
+    max-height: 430px;
     border-radius: 15px;
     margin-top: 10px;
     background-color:#ee5827;
