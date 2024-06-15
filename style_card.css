@@ -4,8 +4,8 @@ body{
     text-align: justify;
     margin: 0 auto;
     padding: 20px;
-    min-width: 344px; max-width: 834px;
-    min-height: 644px; max-height: 822px;
+    max-width: 834px;
+    max-height: 644px;
    
 }
 
@@ -95,8 +95,8 @@ main.cards{
 }
     
 #card1{
-    max-width: 610px;
-    max-height: 267px;
+    max-width: 250px;
+    max-height: 410px;
     border-radius: 15px;
     margin-top: 10px;
     background-color:#ee5827;
@@ -162,8 +162,8 @@ text-decoration: none;
 }
 
 #card2{
-    max-width: 610px;
-    max-height: 267px;
+    max-width: 250px;
+    max-height: 410px;
     border-radius: 15px;
     margin-top: 10px;
     background-color:#ee5827;
@@ -175,8 +175,8 @@ max-height: 200px;
 }
 
 #card3{
-    max-width: 610px;
-    max-height: 267px;
+    max-width: 250px;
+    max-height: 410px;
     border-radius: 15px;
     margin-top: 10px;
     background-color: #ee5827;
@@ -184,8 +184,8 @@ max-height: 200px;
 }
 
 #card4{
-    max-width: 610px;
-    max-height: 267px;
+    max-width: 250px;
+    max-height: 410px;
     border-radius: 15px;
     margin-top: 10px;
     background-color:#ee5827;
@@ -193,8 +193,8 @@ max-height: 200px;
 }
 
 #card5{
-    max-width: 610px;
-    max-height: 267px;
+    max-width: 250px;
+    max-height: 410px;
     border-radius: 15px;
     margin-top: 10px;
     background-color: #ee5827;
@@ -202,8 +202,8 @@ max-height: 200px;
 }
 
 #card6{
-    max-width: 610px;
-    max-height: 267px;
+    max-width: 250px;
+    max-height: 410px;
     border-radius: 15px;
     margin-top: 10px;
     background-color:#ee5827;
