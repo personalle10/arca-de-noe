@@ -83,6 +83,7 @@ iframe{
 }
 main.cards{
     display: flex;
+    justify-content: center;
     flex-direction:row;
     min-width: 834px;
     max-height: 644px;
