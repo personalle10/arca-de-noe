@@ -4,7 +4,7 @@ body{
     text-align: justify;
     margin: 0 auto;
     max-width: 834px;
-   max-height: 644pxpx;
+   max-height: 644px;
    display: block;
    
    
@@ -71,6 +71,11 @@ img{
     max-height: 267px;
     padding: 20px;
 }
+.apresentação>img{
+    display: inline;
+    border-color: rgb(255, 129, 84);
+    border-style: dotted;
+}
 
  div> a{
     font-size: 20px;
@@ -96,6 +101,6 @@ iframe{
 }
  footer{
     color: orangered;
-    
+
  }
  
